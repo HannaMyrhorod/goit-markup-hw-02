@@ -40,6 +40,9 @@ body {
   color: var(--white-color);
 }
 /* Header */
+.site-nav .current {
+  color: var(--accent-color);
+}
 .site-nav a {
   color: var(--title-text-color);
   text-decoration: none;
